@@ -1,0 +1,10 @@
+D:\DEV\DesignPatternsKata\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+D:\DEV\DesignPatternsKata\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+D:\DEV\DesignPatternsKata\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+D:\DEV\DesignPatternsKata\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+D:\DEV\DesignPatternsKata\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+D:\DEV\DesignPatternsKata\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+D:\DEV\DesignPatternsKata\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+D:\DEV\DesignPatternsKata\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+D:\DEV\DesignPatternsKata\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+D:\DEV\DesignPatternsKata\Composite\obj\Debug\netcoreapp3.1\Composite.pdb

@@ -1,0 +1,10 @@
+D:\DEV\DesignPatternsKata\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+D:\DEV\DesignPatternsKata\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+D:\DEV\DesignPatternsKata\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+D:\DEV\DesignPatternsKata\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+D:\DEV\DesignPatternsKata\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+D:\DEV\DesignPatternsKata\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+D:\DEV\DesignPatternsKata\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+D:\DEV\DesignPatternsKata\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+D:\DEV\DesignPatternsKata\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+D:\DEV\DesignPatternsKata\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
