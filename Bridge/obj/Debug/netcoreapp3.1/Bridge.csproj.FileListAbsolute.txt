@@ -1,0 +1,10 @@
+D:\DEV\DesignPatternsKata\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+D:\DEV\DesignPatternsKata\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+D:\DEV\DesignPatternsKata\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+D:\DEV\DesignPatternsKata\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+D:\DEV\DesignPatternsKata\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+D:\DEV\DesignPatternsKata\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+D:\DEV\DesignPatternsKata\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+D:\DEV\DesignPatternsKata\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+D:\DEV\DesignPatternsKata\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+D:\DEV\DesignPatternsKata\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb

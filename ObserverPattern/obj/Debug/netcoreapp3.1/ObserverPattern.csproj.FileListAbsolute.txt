@@ -1,0 +1,11 @@
+D:\DEV\DesignPatternsKata\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.exe
+D:\DEV\DesignPatternsKata\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.deps.json
+D:\DEV\DesignPatternsKata\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.runtimeconfig.json
+D:\DEV\DesignPatternsKata\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.runtimeconfig.dev.json
+D:\DEV\DesignPatternsKata\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.dll
+D:\DEV\DesignPatternsKata\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.pdb
+D:\DEV\DesignPatternsKata\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.csprojAssemblyReference.cache
+D:\DEV\DesignPatternsKata\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.AssemblyInfoInputs.cache
+D:\DEV\DesignPatternsKata\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.AssemblyInfo.cs
+D:\DEV\DesignPatternsKata\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.dll
+D:\DEV\DesignPatternsKata\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.pdb

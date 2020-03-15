@@ -1,0 +1,10 @@
+D:\DEV\DesignPatternsKata\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+D:\DEV\DesignPatternsKata\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+D:\DEV\DesignPatternsKata\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+D:\DEV\DesignPatternsKata\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+D:\DEV\DesignPatternsKata\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+D:\DEV\DesignPatternsKata\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+D:\DEV\DesignPatternsKata\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+D:\DEV\DesignPatternsKata\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+D:\DEV\DesignPatternsKata\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+D:\DEV\DesignPatternsKata\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb

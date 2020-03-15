@@ -1,0 +1,10 @@
+D:\DEV\DesignPatternsKata\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+D:\DEV\DesignPatternsKata\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+D:\DEV\DesignPatternsKata\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+D:\DEV\DesignPatternsKata\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+D:\DEV\DesignPatternsKata\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+D:\DEV\DesignPatternsKata\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+D:\DEV\DesignPatternsKata\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+D:\DEV\DesignPatternsKata\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+D:\DEV\DesignPatternsKata\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+D:\DEV\DesignPatternsKata\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb

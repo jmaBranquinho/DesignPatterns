@@ -1,0 +1,11 @@
+D:\DEV\DesignPatternsKata\Decorator2\bin\Debug\netcoreapp3.1\Decorator2.exe
+D:\DEV\DesignPatternsKata\Decorator2\bin\Debug\netcoreapp3.1\Decorator2.deps.json
+D:\DEV\DesignPatternsKata\Decorator2\bin\Debug\netcoreapp3.1\Decorator2.runtimeconfig.json
+D:\DEV\DesignPatternsKata\Decorator2\bin\Debug\netcoreapp3.1\Decorator2.runtimeconfig.dev.json
+D:\DEV\DesignPatternsKata\Decorator2\bin\Debug\netcoreapp3.1\Decorator2.dll
+D:\DEV\DesignPatternsKata\Decorator2\bin\Debug\netcoreapp3.1\Decorator2.pdb
+D:\DEV\DesignPatternsKata\Decorator2\obj\Debug\netcoreapp3.1\Decorator2.csprojAssemblyReference.cache
+D:\DEV\DesignPatternsKata\Decorator2\obj\Debug\netcoreapp3.1\Decorator2.AssemblyInfoInputs.cache
+D:\DEV\DesignPatternsKata\Decorator2\obj\Debug\netcoreapp3.1\Decorator2.AssemblyInfo.cs
+D:\DEV\DesignPatternsKata\Decorator2\obj\Debug\netcoreapp3.1\Decorator2.dll
+D:\DEV\DesignPatternsKata\Decorator2\obj\Debug\netcoreapp3.1\Decorator2.pdb

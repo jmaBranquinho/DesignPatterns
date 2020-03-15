@@ -1,0 +1,11 @@
+D:\DEV\DesignPatternsKata\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+D:\DEV\DesignPatternsKata\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+D:\DEV\DesignPatternsKata\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+D:\DEV\DesignPatternsKata\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+D:\DEV\DesignPatternsKata\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+D:\DEV\DesignPatternsKata\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+D:\DEV\DesignPatternsKata\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+D:\DEV\DesignPatternsKata\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+D:\DEV\DesignPatternsKata\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+D:\DEV\DesignPatternsKata\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+D:\DEV\DesignPatternsKata\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\DEV\DesignPatternsKata\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+D:\DEV\DesignPatternsKata\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+D:\DEV\DesignPatternsKata\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+D:\DEV\DesignPatternsKata\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+D:\DEV\DesignPatternsKata\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+D:\DEV\DesignPatternsKata\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+D:\DEV\DesignPatternsKata\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+D:\DEV\DesignPatternsKata\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+D:\DEV\DesignPatternsKata\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+D:\DEV\DesignPatternsKata\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+D:\DEV\DesignPatternsKata\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
